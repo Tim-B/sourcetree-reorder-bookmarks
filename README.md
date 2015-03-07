@@ -31,6 +31,8 @@ This PowerShell script will automatically sort bookmarks alphabetically by modif
 
 5. Re-open SourceTree, your bookmarks should now be in order
 
+To re-order bookmarks in future you should only have to right click on the `reorder-sourcetree.ps1` file and click "Run with PowerShell".
+
 # F.A.Q
 
 ### Halp, you destroyed my bookmarks!
