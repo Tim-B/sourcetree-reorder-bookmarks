@@ -45,6 +45,10 @@ Simply find that file and rename it back to `bookmarks.xml` and your bookmarks s
 
 If you do encounter problems, be careful not to re-run the script as it could overwrite the backup with the corrupted version. Try and save a copy of the backup file ASAP.
 
+### For some weird reason it can't find bookmarks.xml
+
+You can manually setting the `$path = $env:LOCALAPPDATA+'\Atlassian\SourceTree\bookmarks.xml'` variable to the correct location.
+
 ### Does it support folders?
 
 Yes, it should re-order folders and the bookmarks within those folders.
