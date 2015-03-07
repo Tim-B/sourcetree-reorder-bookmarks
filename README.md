@@ -21,11 +21,11 @@ This PowerShell script will automatically sort bookmarks alphabetically by modif
 
 3. If you haven't already [allowed PowerShell scripts to be run](https://technet.microsoft.com/en-us/library/bb613481.aspx) on your system then follow these steps:
 
-1. Search for "powershell" from the start menu
-2. Right click on powershell and click "Run as Administrator"
-3. Paste in `Set-ExecutionPolicy -ExecutionPolicy RemoteSigned` at the prompt
-4. Hit enter and answer Y to the confirmation
-5. Close the powershell window
+.1. Search for "powershell" from the start menu
+.2. Right click on powershell and click "Run as Administrator"
+.3. Paste in `Set-ExecutionPolicy -ExecutionPolicy RemoteSigned` at the prompt
+.4. Hit enter and answer Y to the confirmation
+.5. Close the powershell window
 
 4. Right click on the `reorder-sourcetree.ps1` file and click "Run with PowerShell"
 
