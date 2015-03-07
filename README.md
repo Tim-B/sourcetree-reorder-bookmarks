@@ -55,6 +55,6 @@ It should be universally available on Windows systems without installing any add
 
 SourceTree for OSX [already has](https://blog.sourcetreeapp.com/2012/05/15/bookmarks-window-reloaded/) this feature.
 
-~[Source tree order](https://blog.sourcetreeapp.com/files/2012/05/Bookmarks_sort.png)
+![Source tree order](https://blog.sourcetreeapp.com/files/2012/05/Bookmarks_sort.png)
 
 
